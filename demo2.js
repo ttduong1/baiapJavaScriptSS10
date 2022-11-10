@@ -1,0 +1,1 @@
+document.getElementById("Poison").innerHTML = prompt("Nhập độ C");
